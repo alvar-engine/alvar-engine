@@ -21,13 +21,10 @@
 
 
 <!--Intro start-->
-- 🔭 En proceso de aprendizaje de **Java, Javascript, SQL, Python**
-
-- 🌱 Actualmente trabajo en **Un sitio que reunira recursos de aprendizaje para nuevos programadores**
-
-- ☁️ Tengo un gran interes por el desarrollo de software con integracion de IA. **Java + Python**
-
-- 💬 Conversemos sobre **IA, Java, Libros de programación, Gadgets, Futuro y Ficción**
+- 🔭 Desarrollando soluciones de software para la optimización de operaciones industriales
+- 🌱 Profundizando en **TypeScript · React · NestJS · Flutter · Arquitectura offline-first**
+- ☁️ Desarrollo de software con **IA como copiloto** — diseño, planificación y codificación asistida por agentes
+- 💬 Conversemos sobre **IA aplicada, arquitectura de software, digitalización industrial, libros y ciencia ficción**
 
 - 📫 Puedes escribirme siempre a **alvar.latorre@outlook.com**
 
@@ -53,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,dynamodb,express,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,py,tensorflow,pytorch,react,redux,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,react,vite,nodejs,flutter,vscode,git,github,githubactions,gitlab,md,aws,css,tailwind,discord,docker,postgres,mongodb,mysql,express,html,linux,replit&perline=14" />
   </a>
 </p>
 
